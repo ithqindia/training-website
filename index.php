@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Gp Bootstrap Template - Index</title>
+  <title>Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -130,7 +130,7 @@
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
@@ -156,7 +156,7 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section> -->
 
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">

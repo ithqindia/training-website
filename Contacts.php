@@ -62,6 +62,16 @@
 
     <main id="main">
         <h1 >This is  my contact page</h1>
+        <form>
+            <lable>Name</lable>
+            <input type="text">
+            <lable>Email</lable>
+            <input type="text">
+            <lable>Phone</lable>
+            <input type="text">
+            <lable>Address</lable>
+            <input type="text">
+        </form>
         
 
     </main>

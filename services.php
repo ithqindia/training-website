@@ -9,13 +9,13 @@
 </head>
 
 <body>
-<?php include 'inc-nav.php'  ?>
+<?php include 'inc-nav.php';  ?>
 <section id="services" class="services">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2> This is Service Section</h2>
-          <p>Check our Services one by one</p>
+          <h2>Services</h2>
+          <p>Check our Services</p>
         </div>
 
         <div class="row">

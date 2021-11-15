@@ -13,8 +13,7 @@
                   <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
                   <li><a class="nav-link scrollto" href="#team">Team</a></li>
                   <li><a class="nav-link scrollto" href="test.php">Test page</a></li>
-
-                  <li><a class="nav-link scrollto" href="contact.php">Contact us</a></li>
+                  <li><a class="nav-link scrollto" href="Contacts.php">Contact</a></li>
               </ul>
               <i class="bi bi-list mobile-nav-toggle"></i>
           </nav><!-- .navbar -->

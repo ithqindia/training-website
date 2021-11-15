@@ -14,7 +14,7 @@
     <?php include 'inc-nav.php'  ?>
 
     <!-- ======= Hero Section ======= -->
-    <section id="hero-about" class="d-flex align-items-center justify-content-center">
+    <section id="hero-portfolio" class="d-flex align-items-center justify-content-center">
         <div class="container" data-aos="fade-up">
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
